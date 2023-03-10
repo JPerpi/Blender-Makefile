@@ -23,7 +23,7 @@ el comando "make clean"
 -------------GITHUB-----------------
 
 Mediante el comando "make .git" podremos hacer un git init
-y si usamos el comando "make add" hacemos un git add . , 
+y si usamos el comando "make add" hacemos un git add. , 
 además si usamos el comando "make commit" realizaremos
 un commit con el nombre "Commit del programa".
 

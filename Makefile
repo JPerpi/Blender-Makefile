@@ -11,7 +11,7 @@ remote: .git
 	git remote add origin git@github.com:JPerpi/Blender-Makefile.git
 
 push: commit remote
-	git push origin master
+	git push master origin
 
 setup:
 	wget https://ftp.nluug.nl/pub/graphics/blender/release/Blender3.4/blender-3.4.1-linux-x64.tar.xz

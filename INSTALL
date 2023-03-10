@@ -1,0 +1,12 @@
+
+1. Descargar el tar con el comando "make setup".
+2. Extraer el tar con el comando "make install".
+3. Para ejecutar el programa tenemos que entrar en la carpeta que hemos descomprimdo y ejecutar el comando ./blender
+4. Para desinstalar/eliminar utiliza el comando "make unistall".
+5. Si quieres limpiar la capeta usa el "make clean" para eliminar
+ todos los documentos de la carpeta donde esta el makefile.
+6. Para subirlo a un repositorio puedes usar los comandos:
+ -"make .git" para hacer un git init
+ -"make add" para hacer un git add .
+ -"make commit" te va a hacer un commit con el comentario "Commit del programa"
+ -Para hacer un push tendras que hacer un git reomte add y añadir el ssh de tu repositorio
